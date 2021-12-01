@@ -4,7 +4,5 @@ main:
     url: /
   - title: "About"
     url: /about/
-  - title: "윤동주"
-    url: /categories/윤동주/
   - title: "Tags"
     url: /tags/
