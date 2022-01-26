@@ -1,8 +1,10 @@
 # main links
 main:
-  - title: "블로그 방문하기"
+  - title: "회사 개발 일지"
+    url: /office/
+  - title: "포스트"
     url: /
-  - title: "About"
-    url: /about/
-  - title: "Tags"
-    url: /tags/
+  - title: "따라하기"
+    url: /monkey/
+  - title: "카테고리"
+    url: /categories/
